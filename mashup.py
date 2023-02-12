@@ -111,8 +111,8 @@ def merge_audio(folder, output_filename):
 
 def send_email(to, audio_filename):
 
-    from_email = "sanjoliagarwal123@gmail.com"
-    from_password = "kudwnrbnlsdcjizc"
+    from_email = "tarunajain109@gmail.com"
+    from_password = "ahbvmwmuhfyammtp"
     subject = "Audio file"
     message = "Attached is the audio file."
 
